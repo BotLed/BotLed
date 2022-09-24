@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  (づ ◕ ‿ ◕ )づ <sub>...Currently learning: Data analysis using pandas and kaggle</sub>
+  (づ ◕ ‿ ◕ )づ <sub>...Currently learning: Data analysis using Pandas and Kaggle</sub>
 </p>
 
 <p align="center">
