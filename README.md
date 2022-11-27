@@ -17,6 +17,6 @@
 
 <p align="center"> <sub>◑「 found at: <a href="https://github.com/Lockelyy/Lockelyy"> Lockelyy</a> (Python, Java, AI)」◑</sub> </p>
 <div id="footer" align="center">
-<img src='snorlax-burger.gif' style='display: block; margin-left: auto; margin-right: auto; width:225px; height:auto;'></img>
+<img src='snorlax-burger.gif' style='display: block; margin-left: auto; margin-right: auto; width:150px; height:auto;'></img>
 </div>
     
