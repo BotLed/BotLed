@@ -1,8 +1,8 @@
 <h3 align="center"> 
   ✨< Hey, I'm <a href = "https://www.linkedin.com/in/andrey-v-78a1351a6/"> Andrey</a> >✨ 
 </h3>
-<div align="center">
-<img src='sleepy-snorlax.gif' style=' border: 2px solid black; border-radius: 5px; display: block; margin-left: auto; margin-right: auto; width:225px; height:auto;'></img>
+<div id="header" align="center" style="margin-bottom: 20px;">
+<img src='sleepy-snorlax.gif' style=' border: 2px solid yellow; border-radius: 5px; display: block; margin-left: auto; margin-right: auto; width:225px; height:auto;'></img>
 </div>
 <p align="center" style="color:#D3D3D3">
   < Curently pursuing a B.Sc. <b>@Western University</b> 🟣 >
