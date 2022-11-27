@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  ✨< Hey, I'm <a href = "https://www.linkedin.com/in/andrey-v-78a1351a6/"> Andrey</a> >✨ 
+  ✨< Hey, I'm <a href = "https://www.linkedin.com/in/andrey-v-78a1351a6/" target= "_blank"> Andrey</a> >✨ 
 </h3>
 <p align="center" style="color:#D3D3D3">
   < Curently pursuing a B.Sc. <b>@Western University</b> 🟣 >
