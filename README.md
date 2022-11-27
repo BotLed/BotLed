@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-(づ ◕ ‿ ◕ )づ <sub>You can reach me <b>@avelichk@uwo.ca</b>...</sub>
+(づ ◕ ‿ ◕ )づ <sub>You can reach me at <b>avelichk@uwo.ca</b>...</sub>
 </p>
 
 <p align="center">__________________________________________________</p> 
