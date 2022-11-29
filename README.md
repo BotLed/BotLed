@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  (づ ◕ ‿ ◕ )づ <sub>...Currently learning: <a href='https://bit.ly/3r64uZ6'> Data analysis using Pandas and Kaggle </a> </sub>
+    (づ ◕ ‿ ◕ )づ <sub>...Currently learning: <b>Boostrap</b> in order to make my personal website!</sub>
 </p>
 
 <p align="center">
