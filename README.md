@@ -6,13 +6,17 @@
 </p>
 
 <p align="center">
-    (づ ◕ ‿ ◕ )づ <sub>...Currently learning: <b>Boostrap</b> in order to make my personal website!</sub>
+    (づ ◕ ‿ ◕ )づ <sub>...Currently working on: <b>Secretary Totoro</b>
 </p>
 
 <p align="center">
 (づ ◕ ‿ ◕ )づ <sub>You can reach me at <b>avelichk@uwo.ca</b>...</sub>
 </p>
 
+<div align="center">
+<sub>I'm not on here as much as I should be :(</sub>
+</div>
+  
 <p align="center">__________________________________________________</p>
 
 <p align="center"> <sub>◑「 found at: <a href="https://github.com/Lockelyy/Lockelyy"> Lockelyy</a> (Python, Java, AI)」◑</sub> </p>
