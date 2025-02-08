@@ -12,10 +12,6 @@
 <p align="center">
 (づ ◕ ‿ ◕ )づ <sub>You can reach me at <b>avelichk@uwo.ca</b>...</sub>
 </p>
-
-<div align="center">
-<sub>I'm not on here as much as I should be :(</sub>
-</div>
   
 <p align="center">__________________________________________________</p>
 
