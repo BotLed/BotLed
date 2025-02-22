@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-    (づ ◕ ‿ ◕ )づ <sub>...Currently working on: <b>Homelab side projects</b>
-</p>
-
-<p align="center">
-(づ ◕ ‿ ◕ )づ <sub>You can reach me at <b>avelichk@uwo.ca</b>...</sub>
+    (づ ◕ ‿ ◕ )づ <sub>...Currently working on: <a href="https://github.com/BotLed/Scrapey"> Scrapey </a>
 </p>
   
 <p align="center">__________________________________________________</p>
