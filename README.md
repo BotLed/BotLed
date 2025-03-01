@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  ✨< Hey, I'm <a href = "https://www.linkedin.com/in/avelichk/"> Andrey</a> >✨ 
+  ✨< Hey, I'm <a href = "https://botled.github.io/"> Andrey</a> >✨ 
 </h2>
 <p align="center" style="color:#D3D3D3">
   < Curently pursuing a B.Sc. <b>@Western University</b> 🟣 >
