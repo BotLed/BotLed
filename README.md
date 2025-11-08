@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    (づ ◕ ‿ ◕ )づ <sub>...Currently working on: <a href="https://github.com/BotLed/SubForest"> SubForest </a>, <a href="https://github.com/BotLed/Poisson-Disc"> Poisson-Disc </a>
+    (づ ◕ ‿ ◕ )づ <sub>...Currently working on: <a href="https://github.com/BotLed/SubForest"> SubForest </a>
 </p>
   
 <p align="center">__________________________________________________</p>
